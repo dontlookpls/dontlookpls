@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dontlookpls
-- 👀 I’m interested in Reverse-Engineering
-- 🌱 I’m currently learning C++, ASM and Javascript.
+- 👀 I’m interested in Programming & Reverse-Engineering
+- 🌱 I’m currently learning C++ & Python 
 - 📫 How to reach me dontlook#8152
 
 <!---
