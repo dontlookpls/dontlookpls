@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @dontlookpls
-- 👀 I’m interested in Programming & Reverse-Engineering
-- 🌱 I’m currently learning C++ & Python 
-- 📫 How to reach me dontlook#8152
+- 👋 Yes hello @dontlookpls here.
+- 👀 Interest include Programming & Reverse-Engineering
+- 🌱 Learning C++ & Python 
+- 📫 You can reach me at dontlook#8152
 
 <!---
 dontlookpls/dontlookpls is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
