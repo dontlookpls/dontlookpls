@@ -1,6 +1,6 @@
 - 👋 Yes hello @dontlookpls here.
-- 👀 Interest include Programming & Reverse-Engineering
-- 🌱 Learning C++ & C#
+- 👀 Interest include Programming & Reverse-Engineering.
+- 🌱 Studying Multiple Programming Languages. 
 - 📫 You can reach me at dontlook#8152
 
 <!---
